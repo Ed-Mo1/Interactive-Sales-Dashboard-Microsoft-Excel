@@ -27,10 +27,10 @@ This project is an interactive **Microsoft Excel Sales Dashboard** designed to a
 
 ## Project Preview
 ### Overview Dashboard
-![Overview Dashboard](images/dashboard_1.png)
+![Overview Dashboard](images/dashboard_2.png)
 
 ### Details Dashboard
-![Details Dashboard](images/dashboard_2.png)
+![Details Dashboard](images/dashboard_1.png)
 
 ## Files
 - `Interactive Sales Dashboard.xlsx` – Excel dashboard
