@@ -38,5 +38,5 @@ This project is an interactive **Microsoft Excel Sales Dashboard** designed to a
 
 ## Author
 **Eyad Muhammad**
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: *(https://linkedin.com/in/ed-mo1)*
+- GitHub: *(https://github.com/Ed-Mo1)*
